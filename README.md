@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snake0good
-- 👀 I’m interested in Data and Machine Learning
-- 🌱 I’m currently learning SQL for Data Science, Tableau, and improving my Excel. 
+- 👀 I’m interested in Data, Machine Learning, and Web Development
+- 🌱 I’m currently learning Javascript, HTML, and CSS. React.js too
 - 💞️ I’m looking to collaborate on anything that I can have an impact on. I know the education sector. 
 - 📫 How to reach me 
 email - jacobegood@gmail.com
