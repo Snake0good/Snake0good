@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Snake0good
 - 👀 I’m interested in Data, Machine Learning, and Web Development
-- 🌱 I’m currently learning Javascript, HTML, and CSS. React.js too
+- 🌱 I’m currently learning JavaScript, HTML, and CSS. React.js too
 - 💞️ I’m looking to collaborate on anything that I can have an impact on. I know the education sector. 
 - 📫 How to reach me 
 email - jacobegood@gmail.com
