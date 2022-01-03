@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 email - jacobegood@gmail.com
 LinkedIn - www.linkedin.com/in/jacobegood
+website - www.jacobegood.com
 
 <!---
 Snake0good/Snake0good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
