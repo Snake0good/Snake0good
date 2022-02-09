@@ -8,21 +8,28 @@ email - jacobegood@gmail.com
 LinkedIn - www.linkedin.com/in/jacobegood
 website - www.jacobegood.com
 
+
+https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
+https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white
+
+
 <!---
 Snake0good/Snake0good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 ![Snake0good's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snake0good&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snake0good&layout=compact)](https://github.com/Snake0good/github-readme-stats)
-
-
-
-<a href="![Snake0good's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snake0good&show_icons=true&theme=radical)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Snake0good&repo=github-readme-stats" />
-</a>
-<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snake0good&layout=compact)](https://github.com/Snake0good/github-readme-stats)
-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Snake0good&repo=convoychat" />
-</a>
