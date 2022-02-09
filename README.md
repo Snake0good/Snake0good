@@ -8,6 +8,8 @@ email - jacobegood@gmail.com
 LinkedIn - www.linkedin.com/in/jacobegood
 website - www.jacobegood.com
 
+<img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
+}" />
 
 https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
 https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
