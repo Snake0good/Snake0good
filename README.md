@@ -9,27 +9,17 @@ LinkedIn - www.linkedin.com/in/jacobegood
 website - www.jacobegood.com
 
 
-Create a img tag <img src="{BadgeURLHere}" /> or ![image]({BadgeURLHere})
-
-
-<img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}" />
-
-<img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}" />
-
-![image]({https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white})
-
-https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white
-https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
-https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
-https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
-https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
-https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
-https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
-https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white
+🗣 languages, libraries, and learning 👨🏼‍🏫
+-
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+)   ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)   ![image](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white
+)   ![image](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white
+)   ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+)   ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
+)   ![image](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
+)   ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
 
 
 <!---
