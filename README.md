@@ -12,3 +12,6 @@ website - www.jacobegood.com
 Snake0good/Snake0good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Snake0good's GitHub stats](https://github-readme-stats.vercel.app/api?username=Snake0good)](https://github.com/Snake0good/github-readme-stats)
+
