@@ -18,3 +18,10 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snake0good&layout=compact)](https://github.com/Snake0good/github-readme-stats)
 
 
+
+<a href="https://github.com/Snake0good/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Snake0good&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Snake0good/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Snake0good&repo=convoychat" />
+</a>
