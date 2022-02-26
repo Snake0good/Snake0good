@@ -7,7 +7,7 @@
  
 - Twitter - https://twitter.com/jacobegood
 - email - jacobegood@gmail.com
-- LinkedIn - www.linkedin.com/in/jacobegood
+- LinkedIn - currently unavailable (🇨🇳 Firewall) -> wwww.linkedin.com/in/jacobegood
 - website - www.jacobegood.com
 
 
