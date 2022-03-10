@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, HTML, and CSS. React.js too
 - 🚀 Working hard with #100Devs https://www.twitch.tv/learnwithleon/videos and #100DaysOfCode community to find a job in tech.
 - 💞️ I’m looking to collaborate on anything that I can have an impact on. I know the education sector. 
-- 📫 How to reach me...
  
  
 ## Connect with Me here 🔗
