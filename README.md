@@ -22,8 +22,12 @@
 )   ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
 
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" style="max-width: 100%;"> <!--  HTML  --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70" style="max-width: 100%;"> <!--  HTML  --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!--- MongoDB --> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!-- Node.js -->
+  
+ 
 
+
+  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Snake0good&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
