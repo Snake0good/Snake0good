@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jacob
-- 👀 I’m interested in Web Development, Data, and Machine Learning
-- 🌱 I’m currently learning JavaScript, HTML, and CSS. React.js too
+- 👀 I’m interested in Software Development, Web Development, Data, and Machine Learning
+- 🌱 I’m currently learning JavaScript, React, MongoDB, and Express.js
 - 🚀 Working hard with #100Devs https://www.twitch.tv/learnwithleon/videos and #100DaysOfCode community to find a job in tech.
 - 💞️ I’m looking to collaborate on anything that I can have an impact on. I know the education sector. 
  
