@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jacob G.
+- 👋 Hi, I’m Jacob
 - 👀 I’m interested in Software Development, Web Development, Data, and Machine Learning
 - 🌱 I’m currently learning JavaScript, React, MongoDB, NodeJS and Express.js
 - 🚀 Working hard with #100Devs https://www.twitch.tv/learnwithleon/videos and #100DaysOfCode community to find a job in tech.
