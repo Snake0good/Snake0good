@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Jacob
 - 👀 I’m interested in Software Development, Web Development, Data, and Machine Learning
-- 🌱 I’m currently learning JavaScript, React, MongoDB, NodeJS and Express.js
-- 🚀 Working hard with #100Devs https://www.twitch.tv/learnwithleon/videos and #100DaysOfCode community to find a job in tech.
-- 💞️ I’m looking to collaborate on anything that I can have an impact on. I know the education sector. 
+- 🌱 I’m actively using JavaScript, React, MongoDB, NodeJS and Express.js
  
  
 ## Connect with Me here 🔗
@@ -35,3 +33,5 @@
 Snake0good/Snake0good is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
+  
