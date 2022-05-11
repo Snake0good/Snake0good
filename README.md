@@ -84,7 +84,7 @@
     <h3 align="center" dir="auto">You Don't Know JS!</h3>
     <br>
     <a href="https://100devs-html-css-javascript-quiz.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/57625094/167799665-282488f1-89d0-4939-8e2a-4751298f664c.gif" width="100%" alt="spelling bee" style="max-width: 100%;">
+     <img src="https://user-images.githubusercontent.com/57625094/167802378-872e6358-d403-40e4-bf7b-31a3ce849968.gif" width="100%" alt="spelling bee" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
      <a href="https://github.com/Snake0good/100Devs-Quiz"> 
