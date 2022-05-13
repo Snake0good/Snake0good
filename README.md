@@ -1,8 +1,8 @@
 ![Jacob Good](https://user-images.githubusercontent.com/57625094/168236708-294de0dc-703f-435e-bfd0-e85bdfca6542.png)
 
-<h1 align="center">Hi 👋, I'm Jacob</h1>
+<!-- <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center">A passionate full-stack developer from the USA</h3>
-
+-->
  
  
 ## Connect with Me here 🔗
