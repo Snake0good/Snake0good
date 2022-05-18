@@ -5,7 +5,7 @@
 -->
  
  
-## Connect with Me here 🔗
+## Connect with me here 🔗
 - <p align="left"> <a href="https://twitter.com/jacobegood" target="blank"><img src="https://img.shields.io/twitter/follow/jacobegood?logo=twitter&style=for-the-badge" alt="jacobegood" /></a> </p>
 - 🖥 View my projects: <a href="www.jacobegood.com" target="_blank">www.jacobegood.com</a>
 - 📫 Email Me: jacobegood@gmail.com
