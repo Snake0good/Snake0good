@@ -25,13 +25,17 @@
 )   ![image](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white
 )   ![image](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) 
 
+<p align="center" dir="auto">
+<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="70" height="70" style="max-width: 100%;"> <!--  HTML  --> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!--- MongoDB --> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!-- Node.js --> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=white" width="70" height="70" style="max-width: 100%;"> <!-- Express.js -->
+</p> 
 
-<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" alt="css3" width="70" height="70" style="max-width: 100%;"> <!--  CSS  --> <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" alt="html5" width="70" height="70" style="max-width: 100%;"> <!--  HTML  --> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="70" height="70" style="max-width: 100%;"> <!-- JavaScript --> <img src="https://icongr.am/devicon/react-original-wordmark.svg?size=128&color=currentColor" alt="react" width="70" height="70" style="max-width: 100%;"> <!-- React --> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!--- MongoDB --> <img src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!-- Node.js --> <img src="https://icongr.am/devicon/express-original.svg?size=128&color=currentColor" width="70" height="70" style="max-width: 100%;"> <!-- Express.js -->
-  
+<p align="center" dir="auto">
+  <a href="https://www.codewars.com/users/Snake0" rel="nofollow"><img src="https://www.codewars.com/users/Snake0/badges/large" style="max-width: 100%;"></a>
+</p>
 
-  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Snake0good&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center" dir="auto"> 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=Snake0good&theme=react&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
  
 
 
