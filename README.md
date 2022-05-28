@@ -11,7 +11,7 @@ I started my coding journey 6 years ago with Python. I was self-taught and earne
 * 🌍  I'm based in Philadelphia, PA - USA
 * 🖥️  See my portfolio at [www.jacobegood.com](http://www.jacobegood.com)
 * ✉️  You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
-* 🧠  I'm learning React.js, MongoDB, and Express.js
+* 🧠  I'm learning React.js, MongoDB, Express.js, and Tailwind.css
 * ⚡  Fun Fact! I've traveled to 30+ countries and speak Mandarin Chinese 🇨🇳
 
 <a href="https://www.twitter.com/jacobegood" target="_blank" rel="noreferrer"><img
