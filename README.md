@@ -6,7 +6,7 @@ Hi 👋 I'm Jacob
 Full Stack Developer
 --------------------
 
-I started my coding journey 6 years ago with Python. Since then, I've earned multiple certificates from Coursera, Google, and IBM in Data Analytics and Data Science. I then became interested in the front-end and developing full-stack applications. I found a great community with #100Devs and #Tech-Twitter and I've loved the transition to HTML, CSS, and JS. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
+I started my coding journey 6 years ago with Python. Since then, I've earned multiple certificates from Coursera, Google, and IBM in Data Analytics and Data Science. I then became interested in the front-end and developing full-stack applications. I found a great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
 
 * 🌍  I'm based in Philadelphia, PA - USA
 * 🖥️  See my portfolio at [www.jacobegood.com](http://www.jacobegood.com)
