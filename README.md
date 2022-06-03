@@ -1,6 +1,6 @@
 ![Jacob Good](https://user-images.githubusercontent.com/57625094/168236708-294de0dc-703f-435e-bfd0-e85bdfca6542.png)
 
-Hi 👋 My name is Jacob Good
+Hi 👋 I'm Jacob
 ===========================
 
 Full Stack Developer
