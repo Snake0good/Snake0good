@@ -175,7 +175,7 @@ src="https://img.shields.io/twitter/follow/jacobegood?logo=twitter&style=for-the
      <img src="https://user-images.githubusercontent.com/57625094/176613173-322fd01b-e809-480d-996a-a81aa1f39065.gif" width="100%" alt="spelling bee" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/Snake0good/movia-mania"> 
+     <a href="https://github.com/Snake0good/movie-mania"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
      <a href="https://taupe-zabaione-9972df.netlify.app/" rel="nofollow">
