@@ -183,7 +183,7 @@ src="https://img.shields.io/twitter/follow/jacobegood?logo=twitter&style=for-the
      </a>
     </p>
     <p dir="auto">
-     <strong>Javascript, HTML, CSS </strong> - BankCat is the future of banking. Online, secure transfers! Sign up today!
+     <strong>MERN + TailwindCSS</strong> - Interested in finding a new movie or TV show? Come signup over at movie mania!
     </p>
    </td>
   </tr>
