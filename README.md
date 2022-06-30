@@ -167,17 +167,18 @@ src="https://img.shields.io/twitter/follow/jacobegood?logo=twitter&style=for-the
    </td>
    
    
+   
    <td width='50%' valign='top'>
-    <h3 align="center" dir="auto">BankCat Smart Banking</h3>
+    <h3 align="center" dir="auto">Movie Mania</h3>
     <br>
-    <a href="https://bankcat-website-mockup.netlify.app/" rel="nofollow">
-     <img src="https://user-images.githubusercontent.com/57625094/167801083-b09e679c-e115-4980-a9e4-fd3bf2951c63.gif" width="100%" alt="spelling bee" style="max-width: 100%;">
+    <a href="https://taupe-zabaione-9972df.netlify.app/" rel="nofollow">
+     <img src="https://user-images.githubusercontent.com/57625094/176613173-322fd01b-e809-480d-996a-a81aa1f39065.gif" width="100%" alt="spelling bee" style="max-width: 100%;">
     </a>
     <p align="center" dir="auto">  
-     <a href="https://github.com/Snake0good/BankCat-Website"> 
+     <a href="https://github.com/Snake0good/movia-mania"> 
       <img src="https://img.shields.io/badge/Repo-2962FF?style=for-the-badge&logo=github&logoColor=white">
      </a>
-     <a href="https://bankcat-website-mockup.netlify.app/" rel="nofollow">
+     <a href="https://taupe-zabaione-9972df.netlify.app/" rel="nofollow">
       <img src="https://img.shields.io/badge/Live-white?style=for-the-badge&logo=html5&logoColor=2962FF">
      </a>
     </p>
