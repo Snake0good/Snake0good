@@ -8,7 +8,7 @@ Full Stack Developer
 
 I started my programming journey 6 years ago with Python. Since then, I've earned multiple certificates from Coursera, Google, and IBM in Data Analytics and Data Science. I then became interested in the front-end and developing full-stack applications. I found a great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
 
-* 🌍  I'm based in Philadelphia, PA - USA
+* 🌍  I'm based in Philadelphia, PA Harrisburg, PA and Seaford, DE - USA
 * 🖥️  See my portfolio at [www.jacobegood.com](http://www.jacobegood.com)
 * ✉️  You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 * 🧠  I'm learning React.js, MongoDB, Express.js, and Tailwind
