@@ -9,7 +9,7 @@ Full Stack Developer
 I started my programming journey 6 years ago with Python. Since then, I've earned multiple certificates from Coursera, Google, and IBM in Data Analytics and Data Science. I then became interested in the front-end and developing full-stack applications. I found a great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
 
 * 🌍  I'm based in Philadelphia, PA Harrisburg, PA and Seaford, DE - USA
-* 🖥️  See my portfolio at [www.jacobegood.com](http://www.jacobegood.com)
+* 🖥️  See my portfolio at [http://jacobegood-developer.netlify.app/](https://jacobegood-developer.netlify.app/)
 * ✉️  You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 * 🧠  I'm learning React.js, MongoDB, Express.js, and Tailwind
 * ⚡  Fun Fact! I've traveled to 30+ countries and speak Mandarin Chinese 🇨🇳
@@ -26,6 +26,10 @@ src="https://img.shields.io/twitter/follow/jacobegood?logo=twitter&style=for-the
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <!-- <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a> -->
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
