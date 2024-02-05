@@ -3,12 +3,14 @@
 Hi 👋 I'm Jacob
 ===========================
 
-Full Stack Developer
+Software Engineer
 --------------------
 
-I started my programming journey 6 years ago with Python. Since then, I've earned multiple certificates from Coursera, Google, and IBM in Data Analytics and Data Science. I then became interested in the front-end and developing full-stack applications. I found a great community with #100Devs and #Tech-Twitter and I've loved the transition to building front-end, back-end and full-stack applications. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
+Qualified Sofware Engineer. I started my programming journey years ago with Python because that's what the cool kids said to do. Since then, I've earned multiple Data Science, Data Analytics, Frontend Dev, and Backend Dev certificates from Coursera, Google, IBM, and FreeCodeCamp.  
 
-* 🌍  I'm based in Philadelphia, PA Harrisburg, PA and Seaford, DE - USA
+I found a great community with #100Devs and #Tech-Twitter and I've loved building front-end, back-end, and full-stack applications. At my current job, I'm a Search Architect, ETL Engineer, and API guru. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
+
+* 🌍  I'm based in Hershey, PA and Seaford, DE - USA
 * 🖥️  See my portfolio at [http://jacobegood-developer.netlify.app/](https://jacobegood-developer.netlify.app/)
 * ✉️  You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
 * 🧠  I'm learning React.js, MongoDB, Express.js, and Tailwind
