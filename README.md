@@ -10,10 +10,10 @@ Senior Developer. I started my programming journey years ago with Python because
 
 I found a great community with #100Devs and #Tech-Twitter and I've loved building front-end, back-end, and full-stack applications. At my current job, I'm a Search Architect, ETL Engineer, and API guru. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
 
-* 🌍  I'm based in Hershey, PA and Seaford, DE - USA
+* 🌍  I'm based in Hershey, PA - USA
 * 🖥️  See my portfolio at [http://jacobegood-developer.netlify.app/](https://jacobegood-developer.netlify.app/)
 * ✉️  You can contact me at [jacobegood@gmail.com](mailto:jacobegood@gmail.com)
-* 🧠  I'm learning React.js, MongoDB, Express.js, and Tailwind
+* 🧠  I'm learning Go, Java, and enriching my AI
 * ⚡  Fun Fact! I've traveled to 30+ countries and speak Mandarin Chinese 🇨🇳
 
 <a href="https://www.twitter.com/jacobegood" target="_blank" rel="noreferrer"><img
