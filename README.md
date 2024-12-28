@@ -6,7 +6,7 @@ Hi 👋 I'm Jacob
 Software Engineer
 --------------------
 
-Qualified Sofware Engineer. I started my programming journey years ago with Python because that's what the cool kids said to do. Since then, I've earned multiple Data Science, Data Analytics, Frontend Dev, and Backend Dev certificates from Coursera, Google, IBM, and FreeCodeCamp.  
+Senior Developer. I started my programming journey years ago with Python because that's what the cool kids said to do. Since then, I've earned multiple Data Science, Data Analytics, Frontend Dev, and Backend Dev certificates from Coursera, Google, IBM, and FreeCodeCamp.  
 
 I found a great community with #100Devs and #Tech-Twitter and I've loved building front-end, back-end, and full-stack applications. At my current job, I'm a Search Architect, ETL Engineer, and API guru. I'm a designer at heart and love the visual aspect of seeing my creations run in the browser.
 
